@@ -7,7 +7,14 @@ image: 0102619orig.webp
 author: "RashardKelly @nasa-jpl"
 ---
 
+### NASA's [Deep Space Network](https://www.nasa.gov/communicating-with-missions/dsn/) Turns 60
+What's Next? (Live Public Talk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7qnU27pRA9Q?si=sr1QFZEa7Abw74R6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+[@nasa-jpl tour](https://www.jpl.nasa.gov/virtual-tour/) : [GoldsStone](https://www.gdscc.nasa.gov/index.php/antennas/)
+<img  alt="image" src="https://github.com/user-attachments/assets/63b64e91-7a0e-4192-af0a-569f35b708c6" />
+
+![canberra @blackgirlscode @normani ilobeu](https://www.nasa.gov/wp-content/uploads/2023/08/canberra-dss-43-29.jpg?resize=1024,724)
 
 [FireData](https://thakarashard.github.io/compiling/The-2025-Los-Angeles-Fires)
 [EarthDataSearch Los Angeles LandSisplacement search NETCDF](https://search.earthdata.nasa.gov/search/granules?p=C3294057315-ASF!C3294057315-ASF&pg[1][a]=3499177483!3499177482!3499177484!3499177485!ASF&pg[1][v]=t&pg[1][gsk]=-start_date&q=%22OPERA%22&circle[0]=-118.07521%2C33.98122%2C105802&tl=1613385994.317!4!!&lat=33.881460000000004&long=-117.73924548891786&zoom=8.486798121812377) [OPERA _ NETCDF] [.nc File : ARCHiVE - LOSANGELESCOUNTY___OPERA_L3_DISP-S1_IW @cityoflosangeles @stateofcalifornia @emit-sds 20250418T055222](https://archive.org/download/RashardNasaEarthDataRiverWatch/LOSANGELESCOUNTY___OPERA_L3_DISP-S1_IW_F18904_VV_20240701T135248Z_20241122T135247Z_v1.0_20250418T055222Z.nc)  [NETCDF4PYTHON on GiTHUB](https://github.com/rashardsdata/netcdf4-python/tree/master/examples) 

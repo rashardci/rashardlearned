@@ -6,6 +6,63 @@ categories: wfh work secular
 image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 ---
 
+## Walt Disney's Silly Symphonies - The Complete Collection (1929-39)
+<iframe src="https://archive.org/embed/walt-disneys-silly-symphonies-the-complete-collection-1929-39" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+## CapTain America 1944
+[?Query](https://archive.org/search?query=subject%3A%22Captain+America%22+1944) 
+<iframe src="https://archive.org/embed/captain-america_202508" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+## Superman 1941
+[Files](https://archive.org/download/superman-1941-1943-480p-dvdrip)
+<iframe src="https://archive.org/embed/superman-1941-1943-480p-dvdrip" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# Batman1943
+[Files](https://archive.org/download/Batman1943Chapter01TheElectricalBrain)
+
+<iframe src="https://archive.org/embed/Batman1943Chapter01TheElectricalBrain" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+
+[Habesha Church](https://www.vmeotc.org/) + [fb](https://www.facebook.com/permalink.php?story_fbid=pfbid0qn5rnaKG3KGizm4PNpct38zvCL4BFCTZuciRjBY9xTatq7oMSRfneWTvouP7Xwtnl&id=100084464911565)
+
+[Heath cliff and the Cadillac cats episodes + Heathcliff (animated flick)](https://archive.org/details/HeathcliffanimatedFlick)
+
+Cops in Los Angeles County, CA 1992 [Watch @youtube](https://www.youtube.com/watch?v=zDkDoQ95gOw) 
+@cityoflosangeles @nasa-jpl @blackgirlscode @stateofcalifornia 
+
+
+# AnimalFarm 1954
+
+
+[imdb](https://www.imdb.com/title/tt0047834/) : [Wiki](https://en.wikipedia.org/wiki/Animal_Farm_(1954_film)) : [Archive](https://archive.org/details/animalfarm1954_20190809) : [:yt:](https://www.youtube.com/watch?v=CKJvwWyq2z0) : [🛒](https://www.amazon.com/Animal-Farm-Gordon-Heath/dp/B0002ZYDUG) : [@reddit](https://www.reddit.com/r/classicfilms/comments/1gjzpjd/animal_farm_1954/) : [🍅](https://www.rottentomatoes.com/m/animal_farm)
+
+<video controls  poster="https://upload.wikimedia.org/wikipedia/commons/5/5b/Animal_Farm_strip_cartoon.jpg">>
+
+    
+  <source src="https://dn721906.ca.archive.org/0/items/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+  <source src="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4" type="video/mp4" />
+
+  Download the
+
+  <a href="https://archive.org/download/animalfarm1954_20190809/Animal%20Farm%201954.mp4">MP4</a>
+  video.
+</video>
+
+
+Private Snafu
+<iframe src="https://archive.org/embed/private-snafu-collection" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+### NASA's [Deep Space Network](https://www.nasa.gov/communicating-with-missions/dsn/) Turns 60
+What's Next? (Live Public Talk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7qnU27pRA9Q?si=sr1QFZEa7Abw74R6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[@nasa-jpl tour](https://www.jpl.nasa.gov/virtual-tour/) : [GoldsStone](https://www.gdscc.nasa.gov/index.php/antennas/)
+
+[NASA TV In Sight Mars Landing  CSPAN  December 2, 2018 6:35pm-8:01pm EST](https://archive.org/details/CSPAN_20181202_233500_NASA_TV_InSight_Mars_Landing)
+
+[NASA VIKING PROGRAM](https://www.jpl.nasa.gov/missions/viking-1/) PIONEERING MARS LANDER HISTORIC FILM 48584 @nasa-jpl @nasa-pds @caltech
+<iframe src="https://archive.org/embed/48584NASAViking" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 
 [ReeferMAdness](https://www.youtube.com/watch?v=8kg0sK-dY98) TobaccoReserch](https://tobacco.stanford.edu/marijuanas/reefer-madness/)
 [museum](https://hashmuseum.com/en/collection/reefer-madness/)

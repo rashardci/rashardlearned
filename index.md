@@ -49,16 +49,19 @@ mermaid: true
 
 <img  alt="image" src="https://github.com/user-attachments/assets/f2830884-c031-4780-bbb2-cbc59afd4e9f" />
 
-
+< img src="https://daac.ornl.gov/AVIRIS/guides/AV3_L2A_RFL_Fig1.jpg" />
 <style>
 svg  {width: 100%; height: auto;}
 </style>
 
+[marsblogv2](https://rashardgds.github.io/2025/04/22/Marsblogv2.html)
+<img   alt="image" src="https://github.com/user-attachments/assets/2ea98101-0fdd-4316-a7bb-3d8da524f3fc" />
+
 [![Twitter Follow](https://img.shields.io/badge/Social-ricoThaka__-blue?style=social&logo=X)](https://twitter.com/ricothaka)
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
-
+[Use Lynx to download a page, image, or program from the web to your account from the Unix command prompt](https://servicenow.iu.edu/kb?id=kb_article_view&sysparm_article=KB0022667)
 ![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
-
+[la](https://rashardnasalosangelesjpl.github.io/rashardlearned/la/frontpage/sub/2025/10/16/civic.html)
 ![Thumbnail of Rashard](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large)
 
 ### Definition lists can be used with HTML syntax.
