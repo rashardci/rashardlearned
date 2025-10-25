@@ -4,7 +4,7 @@ mermaid: true
 ---
 
 
-
+[Current](https://www.youtube.com/watch?v=XvDZLjaCJuw) [Synopsis](https://youtu.be/PiZHNw1MtzI?t=156)
 
   {% for post in site.posts %}
     
