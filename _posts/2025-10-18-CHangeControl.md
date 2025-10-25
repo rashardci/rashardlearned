@@ -27,7 +27,18 @@ Congressional deliberations about the National Aeronautics and Space Administrat
 
 
 
-@LACMTA my [personal site](https://github.com/rashardsdata) [https://rashardsdata.github.io/](https://rashardsdata.github.io/) still my work blog @nasa-jpl / @nasa-pds please talk to Robin O'Brien of the @Nasa mars robotic mission and she will let me know if anything illeagal or inappropriate caused you to add me to your block list on **`_METRO-PUBLIC_`** wifi
+@LACMTA my [personal site](https://github.com/rashardsdata) [https://rashardsdata.github.io/](https://rashardsdata.github.io/) are  in my work blog cluster @usgs /@nasa-jpl / @nasa-pds please talk to Robin O'Brien of the @Nasa mars robotic mission and she will let me know if anything illeagal or inappropriate caused you to add me to your block list on **`_METRO-PUBLIC_`** wifi ... [holetoanotheruniverse](holetoanotheruniverse40.github.io/) is just a computer cluster named after a tag I made up in Atlanta.. less social media please @LACMTA 🥺 
+
+```
+Web Page Blocked
+Access to the web page you were trying to visit has been blocked in accordance with company policy. Please contact the Help Desk at x24357 if you believe this is in error.
+
+User: 10.1.1.205
+
+URL: holetoanotheruniverse40.github.io/
+
+Category: shareware-and-freeware
+```
 
 ```
 
