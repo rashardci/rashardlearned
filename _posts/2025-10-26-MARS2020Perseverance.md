@@ -33,6 +33,9 @@ Use the Analyst's Notebook to explore planetary data from NASA Mars and lunar la
 
 # _.fits_
 [.fits](https://fits.gsfc.nasa.gov/)
+The standard data format used in astronomy
+Stands for 'Flexible Image Transport System'
+Endorsed by NASA and the [International Astronomical Union](https://fits.gsfc.nasa.gov/iaufwg/iaufwg.html)
 ![.fits](https://fits.gsfc.nasa.gov/FITSlogo.gif) 
 
 # Photojournal's URL Mishap
