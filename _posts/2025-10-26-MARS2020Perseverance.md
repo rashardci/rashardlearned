@@ -12,6 +12,15 @@ author: "RashardKelly @nasa-jpl"
 
 [Mars Orbiter Data](https://ode.rsl.wustl.edu/mars/)
 
+#Mars Perseverance Sol 1499:
+Left Navigation Camera (Navcam)
+NASA's Mars Perseverance rover acquired this image using its onboard Left Navigation Camera (Navcam). The camera is located high on the rover's mast and aids in driving.
+
+This image was acquired on May 8, 2025 (Sol 1499) at the local mean solar time of 11:10:35.
+
+Image Credit: NASA/JPL-Caltech [READ](https://mars.nasa.gov/mars2020/multimedia/raw-images/NLG_1499_0800008543_566ECM_N0730000NCAM00520_00_2I4J)
+![Mars Perseverance Sol 1499](https://mars.nasa.gov/mars2020-raw-images/pub/ods/surface/sol/01499/ids/edr/browse/ncam/NLG_1499_0800008543_566ECM_N0730000NCAM00520_00_2I4J01_1200.jpg)
+
 @WUSTL-CSPL @wustl 
 Hi its [Rashard](https://rashardiman.github.io/rashardlearned/la/eco/ecostress/space/dsn/nsn/climate/weather/2025/10/09/LosAngelesEcology.html) From [@nasa-jpl](https://jplopensourcerover.com/)! I was working with the [Analyst's Notebook](https://an.rsl.wustl.edu/) for my [page](https://thakarashard.github.io/rashardmro/2025/10/25/MArs-Front-Page-7-12-25.html) i am using to base my [decade in Review](https://thegutsylife.medium.com/what-is-a-decade-in-review-d4e89afaaa86) outline im using to prepare for my face to face when it comes around 
 
