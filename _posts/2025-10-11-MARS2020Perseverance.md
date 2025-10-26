@@ -19,7 +19,7 @@ I am on the Mars2020 team, but i got kidnapped and my family and every family i 
 
 About the Notebooks. I am so geatful for the info, however im concerned that they stopped updating [Sol
 
-[.fits]()
+
 ![geo](https://an.rsl.wustl.edu/m20/AN/i/geo-bw.svg)
 
 
@@ -31,6 +31,8 @@ Use the Analyst's Notebook to explore planetary data from NASA Mars and lunar la
 
 <img  alt="image" src="https://github.com/user-attachments/assets/f254fe2e-1b79-4b2d-b78b-84e69b3b21a6" />
 
+# _.fits_
+[.fits](https://fits.gsfc.nasa.gov/)
 ![.fits](https://fits.gsfc.nasa.gov/FITSlogo.gif) 
 
 # Photojournal's URL Mishap
