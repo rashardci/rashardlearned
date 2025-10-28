@@ -43,6 +43,13 @@ MANAGEMENT AND BUDGET
 
 [Sun Valley Serenade (1941)](https://youtu.be/l2h6Uiva_ik?t=1971)
 
+
+
+[https://www.nasa.gov/wp-content/uploads/2022/04/tdrsfactsheet_3.pdf?emrc=69010d8cd17ab](https://www.nasa.gov/wp-content/uploads/2022/04/tdrsfactsheet_3.pdf?emrc=69010d8cd17ab)
+these people need help [https://www.facebook.com/NASA.TDRS](https://www.facebook.com/NASA.TDRS) nasasls `````````This person made a new type of profile that doesn't have to use the name they go by in everyday life. These profiles have visible @usernames.``````````` @TheSpaceDevs @isro @whitehouse @CityOfLosAngeles @nasa-jpl @emit-sds @blackgirlscode 
+<img  alt="image" src="https://github.com/user-attachments/assets/3d4d3a9d-6c3a-4623-a7b7-4aa914c588f3" />
+
+
 <img  alt="image" src="https://github.com/user-attachments/assets/e3329802-c111-43ff-a017-d7385cd99618" />
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid021UdKvDsfbGEc3hmGPmTYPMYZTsyfKQdaUD1CCcjdtpZckNi9VGc3ASM81wb7koEgl%26id%3D100084464911565&show_text=true&width=500" width="500" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
@@ -1206,6 +1213,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
