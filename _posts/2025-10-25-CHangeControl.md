@@ -23,16 +23,9 @@ Dig Your Own Hole ([Full Album](https://youtu.be/2UafeQIkj5c?t=450))
 
 [https://www.congress.gov/crs-product/R43419](https://www.congress.gov/crs-product/R43419)
 Congressional deliberations about the National Aeronautics and Space Administration (NASA) often focus on the availability of funding. This product provides data on past [a](https://www.earthdata.nasa.gov/data/projects/lance/people) nd current NASA appropriations, as well as the President's FY2026 budget request and congressional action on FY2026 appropriations and authorizations of appropriations. [READ - CLiCKHERE](https://www.congress.gov/crs-product/R43419)
-[@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) 
-
-
-At Glance
-
-[@NASA :pdf: @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf)
-
-:: [@whitehosue @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
-
-AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES, AFL-CIO etal.,Plaintiffs, v.UNITED STATES OFFICE OF MANAGEMENT AND BUDGET
+[@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554)  [@NASA :pdf:R43419.121.pdf @nasa-jpl](https://www.congress.gov/crs_external_products/R/PDF/R43419/R43419.121.pdf)
+:: @whitehouse @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419)
+### AMERICAN FEDERATION OF GOVERNMENT EMPLOYEES, AFL-CIO etal.,Plaintiffs, v.UNITED STATES OFFICE OF MANAGEMENT AND BUDGET
 [DownLOAD_PDF](https://www.commerce.gov/sites/default/files/2025-10/TRO.pdf) <~ @SEIU
 [@whitehouse - office-of-management-and-budget](https://www.whitehouse.gov/omb/), [@usagov - office-of-management-and-budget](https://www.usa.gov/agencies/office-of-management-and-budget) et 
 
@@ -1245,6 +1238,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
