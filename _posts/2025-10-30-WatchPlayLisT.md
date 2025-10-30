@@ -6,6 +6,10 @@ categories: wfh work secular
 image: tumblr_9996aa2d413f6668f7f48ccdb4f9fb8a_8780e031_2048.jpg
 ---
 
+Dragon Ball Z - Westwood Ocean Dub Remastered (COMPLETE)
+@emit-sds 
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02DwGtHxD9D1QSAAczzWwkDXQsAj3F83EimKzrVACtEvTmBTDGYk9CcpQyRBv2Y7WQl%26id%3D100084464911565&show_text=true&width=500" width="500" height="430" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<iframe src="https://archive.org/embed/dbz-westwood-remaster" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 Betty Boop
 [FILES](https://archive.org/download/betty-boop-cartoons-from-the-1930s) 
