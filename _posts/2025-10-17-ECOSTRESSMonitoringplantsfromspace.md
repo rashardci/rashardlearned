@@ -9,7 +9,15 @@ image: ecostressjplnasagov-eco-booster.jpg
 somafm [SPaceStationSOMA](https://somafm.com/spacestation/) OR [Deep Space One](https://somafm.com/deepspaceone/)
 [current](https://youtu.be/d8yGrk0Sfxg?t=2335) = [UHF](https://dn720405.ca.archive.org/0/items/uhf_20221230/UHF.mp4)
 
+this directory is [MODiS](https://modis.gsfc.nasa.gov/) not [ECOSTRESS](https://ecostress.jpl.nasa.gov/gallerylist)! idk what direction to take the page in now! @emit-sds @nasa-jpl @blackgirlscode bc i got [Sentinel 3 Agreements to hnor](https://sentinels.copernicus.eu/copernicus/sentinel-3)
 browse this [directory ](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/)
+32.0809° N, 81.0912° W [Savannah Georgia](https://www.savannahga.gov/)
+
+[@NASA_STREAM interactive map](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.24/-8995611.17/3783571.44&layers=aqv_tss_20251105_sentinel:1.00:0.00:30.00,aqv_chla_20251105_sentinel:1.00:0.00:30.00&grids=1,0) [2 @blackgirlscode @normani](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=12.78/-9005243.51/3774550.80&layers=aqv_tss_20251105_sentinel:1.00:0.00:30.00,aqv_chla_20251105_sentinel:1.00:0.00:100.00&grids=1,0)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ed44b238-6f5d-4a17-a483-9385fe6f9768" />
+
+
 ![QA](https://e4ftl01.cr.usgs.gov/WORKING/BRWS/Browse.001/2025.10.17/AST_L1T_00310162025065557_20251017104909_3837876_BR.4.QA.jpg)
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Crah2mYEXgSocV98KJdD2ttMmVJ5gd9Quz6SzRFcVG1hKAZAJTaKSVdRWYQuUszGl%26id%3D100084464911565&show_text=true&width=500" width="500" height="586" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
