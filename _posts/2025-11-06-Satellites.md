@@ -24,7 +24,7 @@ Caption for frame no. 25: Chairman F. James Sensenbrenner Jr., R-Wis., makes his
 
 [<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62761v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62761v.jpg)
 
-<div class="box">
+<div class="tupperware" markdown="1">
 	
 [<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62766v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62766v.jpg)
 [<img src="https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62764v.jpg">](https://tile.loc.gov/storage-services/service/pnp/ppmsca/62700/62764v.jpg)
