@@ -15,6 +15,37 @@ permalink: /changelog
 
 
 
+This service will be unavailable for ~ 1 to 30 minutes on Thursday, 11/13/2025 between 8 am and 11 am ET due to pla... Learn More 
+This service will be unavailable for ~ 1 to 30 minutes on Thursday, 11/13/2025 between 8 am and 11 am ET due to planned maintenance. We apologize for the inconvenience.
+
+Due to the lapse in federal government funding, NASA is not updating this website. We sincerely regret this inconve... Learn More 
+Due to the lapse in federal government funding, NASA is not updating this website. We sincerely regret this inconvenience.
+
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 11-11-2025
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.0 Home NASA Accessibility
+NASA Official: Doug Newman
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f8aaed58-aa14-4a80-8e45-f89128596aa4" />
+
+
 Welcome to the Beginner's Guide to Rockets
 ![i](https://www.grc.nasa.gov/www/k-12/rocket/Animation/rocket/rocket.gif)
 [https://www.grc.nasa.gov/www/k-12/rocket/bgmr.html](https://www.grc.nasa.gov/www/k-12/rocket/bgmr.html)
@@ -1450,6 +1481,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
