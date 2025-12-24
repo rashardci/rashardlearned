@@ -14,7 +14,7 @@ date:   2025-10-09 8:51:06
 
 
 [comment]: <> (Emergency Files )
-[Time MAchine - Mind in a Spin](https://youtu.be/HWwCVqWmgro) @blackgirlscode its really wet and a ton of water in the LARiVER @usgs @nasa-jpl @cityoflosangeles @stateofcalifornia
+[Time MAchine - Mind in a Spin](https://youtu.be/HWwCVqWmgro) @blackgirlscode its really wet and a ton of water in the LARiVER @usgs @nasa-jpl @cityoflosangeles @stateofcalifornia, [The water dashboard](https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-120.51266%2C32.21552%2C-115.01255%2C35.28935%5D&view=%7B%22basemap%22%3A%22EsriTopo%22%2C%22bounds%22%3A%22-120.51265674752948%2C32.21551532000953%2C-115.01255370831964%2C35.28934616530745%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C10%2C12%2C20%2C21%2C22%2C23%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A3%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ) is showing increased discharge at the whittier dam, im going ot upload some footage... 
 
 Longbeach from [Aster](https://asterweb.jpl.nasa.gov/map/) <~ @Nasa-jpl [DataProduct](https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/standard-data-products) ... `geophysical measurements from various types of instruments` && `Standard data products are those with an internally consistent, well-calibrated record of Earth’s geophysical properties to support science.` [ReadMore](https://www.earthdata.nasa.gov/data/catalog)
 
@@ -632,6 +632,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
