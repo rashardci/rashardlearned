@@ -14,14 +14,210 @@ permalink: /changelog
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) 
 : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the [surface of Mars](https://acawpg.org/adult-childrens-bill-of-rights/) for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
 
+![coral i love you @blackgirlscode](https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png?fbclid=IwY2xjawOMSrVleHRuA2FlbQIxMABicmlkETFYUTY2dTB2elNja3lGaFg2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHv_gHFvfu91t--upXMkwrOb9gCnPX1MlZdPC2md_VI3ai7fPq2KmzJ6XUX_t_aem_8misQL4NIvcM-OWEf3EGsg) 
+
+# Cassini Raw Images
+[link - solarsystem.nasa.gov](https:///cassini-raw-images/)
+@nasa-jpl @nasa-pds @nasa @nasa-develop i cannot fetch zipfiles @stanford @UniversityofFlorida @blackgirlscode Latrice / Normani @howard-university-web-services :::::::: @la-county-isd @cityoflosangeles alot of our disruption is coming from the tourism industry . . . [SZA - Saturn : WATCH](https://youtu.be/V2G8ESoDXm8?si=WdW3WJOn-bC2V9oM) : [Lyrics](https://genius.com/Sza-saturn-lyrics) [soundcloud](https://soundcloud.com/szababy2/saturn?in=rerelrlele/sets/mood&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) she dont mean any harm, but since her lyrics cover a lot of emotional things the song is a good barometer that she attracted some hackers . . . @usgs 
+`ERROR: Raw image download request failed. Please try again or contact administrator.`
+<img   alt="image" src="https://github.com/user-attachments/assets/bdc67176-74b7-4e72-8139-1b55e4ebbae4" />
+
+```
+JPL Horizons, version 4.98d 
+Type '?' for brief help, '?!' for details, 
+'-' for previous prompt, 'x' to exit 
+System news updated November 13, 2025
+ 
+Horizons> saturn
+*******************************************************************************
+ Multiple major-bodies match string "SATURN*"
+*******************************************************************************
+ Revised: April 12, 2021         Saturn Barycenter                            6
+ 
+ Dynamical point:
+ ---------------
+ The location of the center-of-mass of the Saturn system.
+```
+
+--- as of 2:14 i was able to download all the raw images, however, getting them onto archive is a chore `resume uploading` .... _Error 5 something or 4*_ @nasa-pds
+
+
+@blackgirlscode GM if any of you are doing hours for community service the cassini site has data flow issues. I think its me. I was looking to animate an image of the week. Its usually a great shot and the user is already working the issue and i need to get some files in... But they are missing \\ @nasa-pds @nasa-jpl im seeking august13 2013 - aug21 for a transition of the sun shining through the rings @nasa @TheSpaceDevs @BlueOrigin @cityoflosangeles @stateofcalifornia @LA-County-iSd 
+
+### [Cassini Raw Images](https://solarsystem.nasa.gov/cassini-raw-images/)
+This gallery contains the full record of the Cassini spacecraft’s raw images taken from Feb. 20, 2004 to Cassini’s end of mission on Sept. 15, 2017. The archive will remain available to all as a historical record. @whitehouse
+`ERROR: Raw image download request failed. Please try again or contact administrator.`
+
+` missing `
+```
+File name: N00215278.jpg
+Taken: Aug. 13, 2013 11:19 PM
+Received: Aug. 14, 2013 8:32 AM
+
+The camera was pointing toward SATURN, and the image was taken using the CL1 and CL2 filters. This image has not been validated or calibrated. A validated/calibrated image will be archived with the NASA Planetary Data System.
+
+Image Credit: NASA/JPL-Caltech/Space Science Institute
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/006c8891-360c-47cc-8e1b-fbe573da2b66" />
+
+### 404
+The URL you were looking for cannot be found.
+`https://www.earthdata.nasa.gov/news/blog/earthaccess-earth-science-data-simplifiedl`
+<img width="539" height="111" alt="image" src="https://github.com/user-attachments/assets/b5d5883b-a78c-43d3-ba43-90b0f385d5ab" />
+@ornldaac i took the l out and opened a [PullRequest](https://github.com/ornldaac/airborne/pull/1) @la-county-isd [MayorBass](https://southwestnc.org/representatives/) @cityOflosAngeles [Mrs Mitchell](https://www.hollyjmitchell.com/) @emit-sds @nasa-openscapes @nasa-develop [https://github.com/ornldaac/airborne/pull/1/commits/7ac967dea5686a7e582c3b39dc09f34fea923681](https://github.com/ornldaac/airborne/pull/1/commits/7ac967dea5686a7e582c3b39dc09f34fea923681) @Blackgirlscode AzioShortyLatrice ? thats a pizza place  @podaac [back east](https://littleazio.com/)
+
+SOHO Realtime Image Viewer (Linux) @blackgirlscode you might find it on archive.org @cityoflosangeles 
+Kicker applet for viewing realtime images of the Sun provided by the SOHO satellite and several other sources ( Download and Information) [Link](https://soho.nascom.nasa.gov/freestuff/#VIEWER) 
+@nasa-pds @kde `Not Found (ocs-web-5)` `https://www.kde-apps.org/content/show.php?content=31311` @nasa-jpl @podacc @hirise @asu  @esa
+
+![SOHO](https://soho.nascom.nasa.gov/freestuff/cdfront2.gif) 
+
+@nasa-pds something is wrong with [barbara thompsons](https://science.gsfc.nasa.gov/sci/bio/barbara.j.thompson) website. [ImageMagick](https://github.com/ImageMagick/ImageMagick) may be broken. My videos are not playing either that i compile on my [CloudMobile](https://www.cloudmobileusa.com/) in @termux @blackgirlscode so [@ffmpeg](https://github.com/FFmpeg/FFmpeg) wont spit out a good file atm [https://isd.lacounty.gov/](https://isd.lacounty.gov/)  @la-county-isd
+
+[LiNK](https://sdo.gsfc.nasa.gov/data/latest48.php?q=0193) 
+<img  alt="image" src="https://github.com/user-attachments/assets/1fb6a0d3-cb97-41f2-95e6-81451bf75d9d" />
+
+Current // HelioPhysics @nasa-jpl 
+
+Current // [HelioPhysics](https://science.gsfc.nasa.gov/670/aboutheliophysics.html) @nasa-jpl 
+[https://sdo.gsfc.nasa.gov/data/](https://sdo.gsfc.nasa.gov/data/)
+
+<div class="tupperware">
+<img   alt="image" src="https://github.com/user-attachments/assets/3eb819a6-07aa-4021-a89b-480bed53d881" />
+<img   alt="image" src="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_4096_0193pfss.jpg" />
+</div>
+
+@github i would like to be guided to more info on `stale connections`
+@LACountyDPH @CityOfLosAngeles @DataDesk @NAsa-jpl @la-county-isd Holly Mitchell / Karen Bass
+I got a computer use card at the long beach library, thanks for any help you all @nasa-jpl @blackgirlscode latrice / normani
+```
+Long Beach 205.154.246.79
+active
+Your current session
+Seen in US
+Long Beach 205.154.246.88
+stale
+Last accessed on Dec 31, 2025
+Seen in US
+Long Beach 205.154.246.79
+stale
+Last accessed on Dec 31, 2025
+Seen in US
+Long Beach 205.154.246.79
+stale
+Last accessed on Dec 30, 2025
+Seen in US
+```
+
+@nasa-jpl @podaac @nasa `Worldview` is tossing 500's from Long Beach Public  if i try to generate an image file for a map @nasa-pds @blackgirlscode @howard-university-web-services
+https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2025-12-20T00:00:00Z&BBOX=33.938,-118.7662,34.3079,-118.0098&CRS=EPSG:4326&LAYERS=OSM_Land_Water_Map,HLS_S30_Nadir_BRDF_Adjusted_Reflectance,OPERA_L3_DIST-ALERT-HLS_Color_Index%28disabled=0%29,Coastlines_15m&WRAP=x,none,none,x&FORMAT=image/png&WIDTH=2754&HEIGHT=1347&colormaps=,,OPERA_Vegetation_Disturbance_Status,&OPACITIES=,,,0.67&MARKER=-118.2433,34.0522&ts=1767224636395
+```
+Internal Server Error
+The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+```
+<img  alt="image" src="https://github.com/user-attachments/assets/4703320b-8e88-47ad-99b0-f0e8f16a28ec" />
+
+@meta im going to clean up my phone, possibly get an sdcard from best buy and ssee if i can access @WhatsApp
+@nasa-jpl i needed to get my @redhat training certificate out of my facebook account for that girl from howard `Latrice Fitzpatrick` she very business oriented and if im not supposed to be romantic and i do that style of communication with her, i could miss out on money and possibly access to my daughter! She dropped me off at [Dance411](https://www.instagram.com/reel/DKiRAo3pcb9/) [[1](https://www.dance411.com/)] so the image of what i am im not and im terrified! so ill play with this after i go to hollywood best buy for a sub$10 micro sd NAsa Earthdata work is filling up disk space, then theres the hunt for wifi that will actually allow me to upload @cityoflosangeles @stateofcalifornia @blackgirlscode 
+@facebookresearch i have been working out of Billy Jean in Long Beach and its like [Denver](https://denverite.com/2019/11/14/denver-public-library-shuts-down-its-computer-network-after-detecting-ransomware/) and [Seattle](https://www.seattletimes.com/seattle-news/seattle-library-ransomware-attack-affected-nearly-27k-people/) and i get comprimised a lot.. I know Shane from Web Dot Com... So i ddont know if he polluted you guys with [Dance411](https://www.youtube.com/watch?v=aYrMKMtUbWk) [gossip](https://www.youtube.com/watch?v=GzK-adwuRWg), because the soundcloud boys would drop in after the normie hampster wheel sessions were over and they rockit out [playboy style](https://www.youtube.com/watch?v=WDZJPJV__bQ) in celebration of thier hollywood blvd [accomplishments](https://www.ebony.com/wicked-is-a-journey-of-sisterhood-solidarity-and-self-actualization/) and they have ties to [Paul Mitchell](https://www.youtube.com/watch?v=Csgo0oU5a_Y) in [BeverlyHills](https://youtube.com/shorts/DgMfPxltYvw?si=Otraewb6brRwRAB0) [[1](https://youtu.be/A8XqKA7nCYM?si=o0svYusEcAZmpZYO)]
+
+`https://www.facebook.com/checkpoint/1501092823525282/?next=https%3A%2F%2Fwww.facebook.com%2F#`
+```
+Enter mobile number
+We’ll send a code via WhatsApp or SMS to confirm the mobile number you give us.
+Country code
+United States of America (+1)
+Mobile number
+Adding your number here lets Facebook use it to help you log in, protect our community, accurately count people who use our services, and assist you in accessing Facebook and opt-in programs, but not for purposes such as suggesting friends or providing ads. Only you will see this number on your profile. If the number added here is provided elsewhere across Facebook Company Products, it may be used for other purposes including suggesting friends or providing ads.
+```
+
+<img   alt="image" src="https://github.com/user-attachments/assets/a84a560d-64d3-46a7-9957-3a99f460a1f4" />
+
+
+@GitHub Stale and ActiveSessions @blackgirlscode im revoking all for security im scared!
+
+```
+Long Beach 205.154.246.88
+active
+Your current session
+Seen in US
+Long Beach 205.154.246.79
+stale
+Last accessed on Dec 09, 2025
+Seen in US
+Long Beach 205.154.246.88
+active
+Your current session
+Seen in US
+California 107.77.229.135
+active
+Last accessed on Dec 10, 2025
+Seen in US
+Long Beach 205.154.246.79
+stale
+Last accessed on Dec 04, 2025
+Seen in US
+Long Beach 205.154.246.79
+active
+Your current session
+Seen in US
+Long Beach 205.154.246.88
+active
+Last accessed on Dec 09, 2025
+Seen in US
+Long Beach 205.154.246.88
+active
+Last accessed on Dec 09, 2025
+Seen in US
+Long Beach 205.154.246.88
+active
+Last accessed on Dec 09, 2025
+Seen in US
+Long Beach 205.154.246.79
+stale
+Last accessed on Dec 06, 2025
+Seen in US
+Long Beach 205.154.246.79
+stale
+Last accessed on Dec 04, 2025
+Seen in US
+```
+
+## Voyager 1 Red Spot Movie
+[link](https://archive.org/details/SPD-SLRSY-2149)
+@nasa-pds 
+citations are broken on some images @nasa-jpl @emit-sds @nasa @blackgirlscode 
+Source `http://solarsystem.nasa.gov/multimedia/display.cfm?IM_ID=2149 ` resolves to `https://solarsystem.nasa.gov/multimedia/display/?IM_ID=2149` 
+Page not found
+The page you requested either doesn't exist anymore, or was moved.
+
+You can try searching for the topic, or follow the links below.
+<img   alt="image" src="https://github.com/user-attachments/assets/1d6b0681-3aee-47e4-881a-0358d46c4b54" />
+
+DATA ALERT: Anomaly affecting the OPERA DSWx-S1 product: OPERA has discovered a processing error affecting DSWx-S1 data products generated from May 2025 onwards. This error is causing Sentinel-1A (S1A) and Sentinel-1C (S1C) data to be incorrectly mixed into a single product.
+This issue is currently under investigation by the OPERA team. As a precaution, the OPERA team has temporarily stopped the production of DSWx-S1 while they resolve this matter. We will provide more information as soon as it becomes available. We apologize for any inconvenience this may cause.[https://podaac.jpl.nasa.gov/](https://podaac.jpl.nasa.gov/)
+
+@noaagov @commercegov @nasa-jpl [@NASA-DEVELOP](https://play.google.com/store/apps/details?id=gov.nasa.hq.SpotTheStation) I left a comment a few days after discovrEpic stopped sending pics and the magnet 🧲 data got interrupted... looking for correlation @blackgirlscode @cityoflosangeles @stateofcalifornia
+
+
+
+[Link](https://www.facebook.com/permalink.php?story_fbid=pfbid02tMw7tVsyEqpQJ18XC8sjS7N1MCSfY8rMsxKdrjwwYguK7GuFjKgdoQDRn4stEvCnl&id=100084464911565)
+<img alt="image" src="https://github.com/user-attachments/assets/c147af9a-2dba-430e-bf77-d56403259d69" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/e3c929b0-59ad-4479-b4e2-671a04e1ed30" />
+
+[@NASA Continuity of Appropriations Plan PDF](https://www.nasa.gov/wp-content/uploads/2025/09/nasa-continuity-of-appropriations-plan-final-9-29-2025.pdf?emrc=cd4554) :: @whitehouse @NASA [Appropriations and Authorizations: At a Glance](https://www.congress.gov/crs-product/R43419) 
+@FoxNews @blackgirlscode @usnavy @Nasa-jpl @whitehouse @cityoflosangeles @stateofcalifornia @newshour
+
 <img  alt="image" src="https://github.com/user-attachments/assets/4bbf8727-1e0e-4db4-9fa4-03676973f39d" />
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A333416046&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/selectabwoy" title="Selectabwoy" target="_blank" style="color: #cccccc; text-decoration: none;">Selectabwoy</a> · <a href="https://soundcloud.com/selectabwoy/jrocc-sex-machine-today-2001" title="J.Rocc: Sex Machine Today (2001)" target="_blank" style="color: #cccccc; text-decoration: none;">J.Rocc: Sex Machine Today (2001)</a></div>
 
 ![coral i love you @blackgirlscode](https://user-images.githubusercontent.com/19292210/60553863-044dd200-9cea-11e9-987e-7db84449f215.png?fbclid=IwY2xjawOMSrVleHRuA2FlbQIxMABicmlkETFYUTY2dTB2elNja3lGaFg2c3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHv_gHFvfu91t--upXMkwrOb9gCnPX1MlZdPC2md_VI3ai7fPq2KmzJ6XUX_t_aem_8misQL4NIvcM-OWEf3EGsg) 
-
+```
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02Hf5uTmqXLLjwgz6TgHvSbonyWRdxXAEtwtWJ66F2dU6ec5ZW5PyCYq19F6AHP631l%26id%3D100084464911565&show_text=true&width=500" width="500" height="781" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
+```
 there ws a lapse in website acceccibility from longbeach @stateofcalifornia @cityoflosangeles
 @nasa-pds [i reported it on facebook](https://www.facebook.com/permalink.php?story_fbid=pfbid0hJz1iuiYwvCLbPT26uB8TVCfC8tTbiqBqP8s4bCWfpBZoNKuj6uDYf7M9VL2hzAAl&id=100084464911565) ++ @nasa-jpl @blackgirlscode im logged in sowhatever happened [resolved](https://www.facebook.com/permalink.php?story_fbid=pfbid02Hf5uTmqXLLjwgz6TgHvSbonyWRdxXAEtwtWJ66F2dU6ec5ZW5PyCYq19F6AHP631l&id=100084464911565)
 
@@ -1525,6 +1721,7 @@ encouraging meaningless expenditures that reduce the capability for political an
         <div></div>
         <div></div>
       </div>
+
 
 
 
