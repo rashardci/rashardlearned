@@ -9,11 +9,24 @@ author: "RashardKelly @nasa-jpl"
 ---
 
 
-
-# Rashard Kelly NasaJpl MRO JUNO iSS
-
-
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/586c41e4-fbc1-41a7-8e4f-a3afe72244c5" />
+
+# Rashard Kelly [NasaJpl](https://web.archive.org/web/20250208075001/https://www.flickr.com/photos/nasa-jpl/) MRO JUNO [iSS](https://ecostress.jpl.nasa.gov/news/paris-land-surface-temperature)
+
+
+
+
+{{ site.time | date: '%B %d, %Y' }} {{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+# Currently Compling g_e, [m/s^2](https://eyes.nasa.gov/apps/dsn-now/dsn.html)
+
+## Hr 
+
+@nasa-jpl @nasa-pds this girl [`Tinashe`](https://www.youtube.com/watch?v=jrjESdPsLxE) might be [Latrice](https://www.facebook.com/thevirtiservway/) in makeup @la-county-isd Karen Bass @CityOfLosAngeles @CityOfSanDiego @nasa-develop @whitehouse 
+- [rashard](https://rashardmro.tumblr.com/tagged/crew11)
+  
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2152471911&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/platform" title="Boiler Room" target="_blank" style="color: #cccccc; text-decoration: none;">Boiler Room</a> · <a href="https://soundcloud.com/platform/tinashe-friends-nyc-friday" title="Tinashe + Friends | Boiler Room: New York" target="_blank" style="color: #cccccc; text-decoration: none;">Tinashe + Friends | Boiler Room: New York</a></div>
 
  # FaceBook Account
  ` alt="image trying to make a new facebook account"` 
